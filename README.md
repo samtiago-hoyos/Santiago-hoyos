@@ -1,58 +1,76 @@
 # Santiago-hoyos
-<h1 align="center">👋 Hola, soy Desarrollador Java</h1>
+<h1 align="center">👋 Hola, soy Desarrollador Java en formación</h1>
 
 <p align="center">
-  Apasionado por crear aplicaciones robustas, escalables y de alto rendimiento usando Java y su ecosistema.
+  Entusiasmado por aprender, mejorar y construir mis primeros proyectos con Java y su ecosistema.
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 👨‍💻 Desarrollador especializado en **Java**  
-- 🌱 Aprendiendo y profundizando en **Spring Boot**, **Microservicios** y **APIs REST**  
-- 🧰 Entusiasta del **código limpio**, patrones de diseño y buenas prácticas  
-- 🎯 Enfoque en construir software eficiente y mantenible
+- 🌱 Actualmente aprendiendo **Java**, **Spring Boot** y fundamentos de programación  
+- 📘 Practicando con proyectos pequeños para mejorar mis habilidades  
+- 🔍 Interesado en APIs REST, bases de datos y buenas prácticas de desarrollo  
+- 🎯 Buscando mi primera oportunidad para crecer como desarrollador
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías que estoy aprendiendo
+
 <div align="center">
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚙️ Frameworks y librerías
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%239A7200.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+### ⚙️ Frameworks (en aprendizaje)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Herramientas y DevOps
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Mis primeros proyectos
 
-### 🔹 **API REST con Spring Boot**
-**Descripción:** API completa con CRUD, validaciones, manejo de errores y documentación con Swagger.  
+### 🔹 **Mini CRUD en Java**
+**Descripción:** Proyecto simple de consola para practicar operaciones básicas (crear, leer, actualizar, eliminar).  
 🔗 *Repositorio:* [link aquí]
 
 ---
 
-### 🔹 **Sistema de Gestión en Java + MySQL**
-**Descripción:** Aplicación Java conectada a base de datos MySQL usando JDBC/Hibernate.  
+### 🔹 **API Básica con Spring Boot**
+**Descripción:** API sencilla con algunas rutas, ideal para aprender controladores y servicios.  
 🔗 *Repositorio:* [link aquí]
 
 ---
 
-### 🔹 **Microservicio en Spring Cloud**
-**Descripción:** Arquitectura basada en microservicios con Eureka, Gateway y Config Server.  
-🔗 *Repositori*
+### 🔹 **Pequeña aplicación con MySQL**
+**Descripción:** Primeras pruebas conectando Java con bases de datos.  
+🔗 *Repositorio:* [link aquí]
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Contacto
+- 📧 Email: tu_email@example.com  
+- 💼 LinkedIn: *(opcional)*  
+
+---
+
+✨ *Gracias por pasar por mi perfil. Estoy en constante aprendizaje y abierto a recibir consejos o colaborar en proyectos sencillos.*
+
